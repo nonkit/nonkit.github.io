@@ -14,5 +14,5 @@ I'd like to start following things.
 - [Program Database](https://nonkit.github.io/ProgramDB/)
 - [SBDoc](https://nonkit.github.io/SBDoc/)
 - [Shapes](https://nonkit.github.io/Shapes/)
-- [Small Quest](https://nonkit.github.io/Shapes/SmallQuest/)
-- [Small Wiki Pad](https://nonkit.github.io/Shapes/SmallWikiPad/)
+- [Small Quest](https://nonkit.github.io/SmallQuest/)
+- [Small Wiki Pad](https://nonkit.github.io/SmallWikiPad/)
