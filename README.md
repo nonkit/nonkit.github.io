@@ -9,7 +9,8 @@ I'd like to start following things.
 
 ## See Also
 ### Special Links
-TBD
+- [About Small Basic](https://nonkit.blogspot.com/2013/06/small-basic-articles-in-technet-wiki.html) (TechNet Wiki)
+- [Small Basic Subroutines](https://nonkit.blogspot.com/2019/05/small-basic-subroutine-library-project.html) (GitHub Gist)
 
 ### GitHub Pages
 - [Anime](https://nonkit.github.io/Anime/) - SB animation editor
