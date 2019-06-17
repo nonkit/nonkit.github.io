@@ -15,7 +15,7 @@ I'd like to start following things.
 
 ### GitHub Pages
 - [Anime](https://nonkit.github.io/Anime/) - SB animation editor
-- [Article List](https://nonkit.github.io/ArticleList/) - SB article list generator
+- [Article List](https://nonkit.github.io/ArticleList/) - SB/PS article list generator
 - [Form](https://nonkit.github.io/Form/) - SB Form editor
 - [GraphGo](https://nonkit.github.io/GraphGo/) - C++ Go simulator
 - [Program Database](https://nonkit.github.io/ProgramDB/) - SB program database
