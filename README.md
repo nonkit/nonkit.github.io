@@ -1,4 +1,4 @@
-# Nonkit Page
+# Nonkit GitHub Page
 This is my first GitHub page.
 
 I'd like to start following things.
@@ -7,11 +7,15 @@ I'd like to start following things.
 2. To make a new special site such about PowerShell.
 3. To add some design for this page.
 
+## Bio
+TBD
+
 ## See Also
 ### Special Links
 - [About Small Basic](https://nonkit.blogspot.com/2013/06/small-basic-articles-in-technet-wiki.html) (TechNet Wiki)
 - [Small Basic Subroutines](https://nonkit.blogspot.com/2019/05/small-basic-subroutine-library-project.html) (GitHub Gist)
 - [Small Basic Art](https://nonkit.blogspot.com/2014/11/table-of-contents.html) (Blogger)
+- [Small Basic Blog](https://techcommunity.microsoft.com/t5/small-basic-blog/bg-p/SmallBasic) (Tech Community)
 - [Other Resources](https://nonkit.blogspot.com/2019/10/technet-gallery-contributions.html) (TechNet Gallery)
 
 ### GitHub Pages
