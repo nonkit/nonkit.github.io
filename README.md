@@ -23,6 +23,7 @@ TBD
 - [Article List](https://nonkit.github.io/ArticleList/) - SB/PS article list generator
 - [Form](https://nonkit.github.io/Form/) - SB Form editor
 - [GraphGo](https://nonkit.github.io/GraphGo/) - C++ Go simulator
+- [Icon Editor](https://nonkit.github.io/IconEditor/) - SB icon editor
 - [Program Database](https://nonkit.github.io/ProgramDB/) - SB program database
 - [SBDoc](https://nonkit.github.io/SBDoc/) - SB documentation tool
 - [Shapes](https://nonkit.github.io/Shapes/) - SB Shapes & SVG editor
