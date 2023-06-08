@@ -8,7 +8,7 @@ I'd like to start following things.
 3. To add some design for this page.
 
 ## Bio
-TBD
+I am an amateur programmer. I used to program with one of BASIC language on an 8-bit micro computer when I was a collage student. In 2010, I started to program with Microsoft Small Basic. And I'm interested in writing programs to draw and animate SVG pictures. I'm also interested in conveying the fun of programming.
 
 ## See Also
 ### Special Links
